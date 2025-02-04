@@ -1,10 +1,10 @@
 # gen-ai-bootcamp-2025
-A structured learning path to understand, build, and deploy Generative AI. Covers AI assistants, cloud AI, model training, and production deployment across four levels (Beginner to Expert). Learn real-world AI applications, best practices, and optimization techniques.
+I am undertaking a structured learning path to understand, build, and deploy Generative AI with **Andrew Brown's**  [GenAI Bootcamp](https://genai.cloudprojectbootcamp.com). This bootcamp will cover AI assistants, cloud AI, model training, and production deployment across four levels (Beginner to Expert). I'll be learning to how to create real-world AI applications, best practices, and optimization techniques.
 
 # GenAI Bootcamp
 
 ## 📌 Bootcamp Goal
-This bootcamp is designed to **demystify Generative AI (GenAI)** by providing clear, structured learning paths. With the increasing hype around GenAI—driven by venture capital investment—many professionals face **confusion and mismatched expectations**. Our goal is to equip developers, decision-makers, and executives with the **technical and business clarity** needed to navigate and build **real-world GenAI solutions**.
+The bootcamp is designed to **demystify Generative AI (GenAI)** by providing clear, structured learning paths. With the increasing hype around GenAI—driven by venture capital investment—many professionals face **confusion and mismatched expectations**. Our goal is to equip developers, decision-makers, and executives with the **technical and business clarity** needed to navigate and build **real-world GenAI solutions**.
 
 ## 🚀 The Problem
 The applications and benefits of GenAI have been **overhyped**, leading to **technical and business uncertainty** for:
@@ -39,10 +39,10 @@ The bootcamp follows a **Maturity Model approach**, structured into four levels:
 
 ---
 
-### **💡 What You’ll Learn**
+### **💡 Learning Objectives**
 ✅ GenAI **landscape & limitations**  
 ✅ How to **build and deploy AI applications**  
 ✅ **Best practices** for model training, optimization, and scaling  
 
-This repository includes **guides, hands-on exercises, and code samples** to help participants **transition from beginner to expert in GenAI**. Contributions & discussions are welcome! 🚀🔥
+This repository wil include **hands-on exercises, and code samples** showing my work as I **transition from beginner to real world work related applications in GenAI**. 🚀
 

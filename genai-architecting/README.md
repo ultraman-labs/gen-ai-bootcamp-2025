@@ -81,7 +81,7 @@ The system will provide various **interactive learning activities**, utilizing *
 
 ---
 
-## **Technical Implementation Factors**  
+## **Technical Implementation Factors (Assumptions)**  
 
 1. **Computational Efficiency**  
    - a. As the system is **self-hosted**, **AI processing efficiency** must be optimized.  

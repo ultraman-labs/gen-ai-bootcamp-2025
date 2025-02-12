@@ -1,7 +1,7 @@
 # **AI-Driven Spanish Language Learning System**  
 
 ## **Introduction & Purpose**  
-This initiative focuses on building an **AI-driven Spanish language learning platform**, designed to run on **self-managed infrastructure** to **minimize cloud expenses** while ensuring **data privacy and security**. Although the primary focus is on **Spanish**, the long-term vision includes **expansion into French**.  
+This Gen-AI project focuses on building an **AI-driven Spanish language learning platform**, designed to run on **self-managed infrastructure** to **minimize cloud expenses** while ensuring **data privacy and security**. Although the primary focus is on **Spanish**, the long-term vision includes **expansion into French**.  
 
 The system will provide various **interactive learning activities**, utilizing **open-source LLMs** and **Retrieval-Augmented Generation (RAG)** to assist learners in enhancing **vocabulary, sentence construction, and immersive language practice**.  
 

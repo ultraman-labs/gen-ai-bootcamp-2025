@@ -10,7 +10,7 @@ The system will provide various **interactive learning activities**, utilizing *
 ## **Key System Features**  
 
 1. **Locally Hosted AI**  
-   - a. The platform will operate on **in-house hardware** (an AI-powered PC with a budget of **$10K–$15K**) rather than relying on **cloud-based solutions**.  
+   - a. This prototype platform will operate on **in-house hardware** (an AI-powered PC with a budget of **under $100**) and relying on free tiier **cloud-based solutions**.  
    - b. Ensures **reduced costs** and **increased data security** by keeping processing local.  
 
 2. **Advanced Language Model**  

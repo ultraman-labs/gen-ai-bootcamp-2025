@@ -1,0 +1,121 @@
+<examples>
+    <example>
+        <user_input>
+            El gato está sobre la mesa, ¿cerraste la ventana?
+        </user_input>
+        <translation>
+            The cat is on the table, did you close the window?
+        </translation>
+        <score>4</score>
+        <score_reasons>
+            <reason type="bad">The vocabulary table does not display the Spanish characters correctly; the cells are blank.</reason>
+            <reason type="bad">The beginner sentence is unnecessary; it should directly start with the vocabulary table.</reason>
+            <reason type="bad">The clues should not include the polite form of verbs, as the student needs to figure that out.</reason>
+            <reason type="bad">The sentence structure is too detailed; it should be more conceptual, like: [Location] [Subject] [Verb], [Object] [Verb-past]?</reason>
+        </score_reasons>
+        <assistant_output>
+            <introduction>Let's break down the sentence into smaller parts. Here's a possible vocabulary table to get started:</introduction>
+            <vocabulary_table>
+                <word>
+                    <spanish>gato</spanish>
+                    <english>cat</english>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <spanish>mesa</spanish>
+                    <english>table</english>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <spanish>ventana</spanish>
+                    <english>window</english>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <spanish>cerrar</spanish>
+                    <english>to close</english>
+                    <type>Verb</type>
+                </word>
+                <word>
+                    <spanish>sobre</spanish>
+                    <english>on / over</english>
+                    <type>Preposition</type>
+                </word>
+            </vocabulary_table>
+            <sentence_analysis>
+                <clause1>
+                    <description>The cat is on the table</description>
+                    <spanish>El gato está sobre la mesa</spanish>
+                    <structure>[Subject] [Verb] [Preposition] [Location]</structure>
+                </clause1>
+                <clause2>
+                    <description>Did you close the window?</description>
+                    <spanish>¿Cerraste la ventana?</spanish>
+                    <structure>[Verb-Past] [Object]?</structure>
+                </clause2>
+            </sentence_analysis>
+            <student_task>
+                Your turn! Try to fill in the blanks using the vocabulary and sentence structure provided.
+            </student_task>
+        </assistant_output>
+    </example>
+
+    <example>
+        <user_input>
+            El gato está sobre la mesa, ¿cerraste la ventana?
+        </user_input>
+        <translation>
+            The cat is on the table, did you close the window?
+        </translation>
+        <score>10</score>
+        <score_reasons>
+            <reason type="good">Avoids unnecessary introductory text and immediately presents vocabulary.</reason>
+            <reason type="good">Uses a conceptual sentence structure.</reason>
+            <reason type="good">Clues do not reveal tense or conjugation information.</reason>
+        </score_reasons>
+        <assistant_output>
+            <cheatsheet>
+                <word>
+                    <english>cat</english>
+                    <spanish>gato</spanish>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <english>table</english>
+                    <spanish>mesa</spanish>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <english>window</english>
+                    <spanish>ventana</spanish>
+                    <type>Noun</type>
+                </word>
+                <word>
+                    <english>to be (location)</english>
+                    <spanish>estar</spanish>
+                    <type>Verb</type>
+                </word>
+                <word>
+                    <english>to close</english>
+                    <spanish>cerrar</spanish>
+                    <type>Verb</type>
+                </word>
+            </cheatsheet>
+            <sentence_structure>
+                <pattern>[Location] [Subject] [Verb], [Object] [Verb-Past]?</pattern>
+            </sentence_structure>
+            <considerations>
+                <point>This is a compound sentence with two clauses separated by a comma.</point>
+                <point>The first clause describes a location where something exists.</point>
+                <point>The second clause asks about a past action.</point>
+            </considerations>
+            <possible_next_steps>
+                <step>Attempt an answer.</step>
+                <step>Ask for clues about location marking.</step>
+                <step>Ask for clues about connecting two sentences.</step>
+                <step>Ask for clues about question formation.</step>
+                <step>Ask for clues about verb conjugation.</step>
+            </possible_next_steps>
+        </assistant_output>
+    </example>
+</examples>

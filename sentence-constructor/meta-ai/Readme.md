@@ -2,7 +2,7 @@
 
 #### Using MetaAI and upon entering the "Language Prompt" (See link below), the response was the following.  
 
-[[Sentence-Constructor/MetaAI/prompt.md|Language Prompt Used With MetaAI]]
+[Language Prompt Used With MetaAI](sentence-constructor/meta-ai/prompt.md)
 
 ![[001-MetaAI.png]]
 

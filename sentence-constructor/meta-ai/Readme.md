@@ -6,7 +6,6 @@
 
 ![MetaAI Screenshot](../001-MetaAI.png)
 
-
 ##### It's interesting to note that MetaAI asked me to enter (come up with) an English sentenced to enter. Whereas ChatGPT provided an English sentence for me to translate. 
 
 #### I then entered the English sentence. MetaAI provided a vocabulary table and sentence structure hints for me to use when translating the sentence into Spanish. So the LLM did adhere to the given prompt.

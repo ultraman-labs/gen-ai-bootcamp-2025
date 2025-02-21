@@ -4,7 +4,7 @@
 
 [Language Prompt Used With MetaAI](/sentence-constructor/meta-ai/prompt.md)
 
-![MetaAI Screenshot](../001-MetaAI.png)
+![MetaAI Screenshot](/pics/001-MetaAI.png)
 
 ##### It's interesting to note that MetaAI asked me to enter (come up with) an English sentenced to enter. Whereas ChatGPT provided an English sentence for me to translate. 
 

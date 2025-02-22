@@ -105,7 +105,7 @@
                 <pattern>[Location] [Subject] [Verb], [Object] [Verb-Past]?</pattern>
             </sentence_structure>
             <considerations>
-                <point>This is a compound sentence with two clauses separated by a comma.</point>
+                <point>This is a compound sentence, with two clauses separated by a comma.</point>
                 <point>The first clause describes a location where something exists.</point>
                 <point>The second clause asks about a past action.</point>
             </considerations>

@@ -11,7 +11,7 @@
 #### I then entered the English sentence. MetaAI provided a vocabulary table and sentence structure hints for me to use when translating the sentence into Spanish. So the LLM did adhere to the given prompt.
 
 
-![[./pics/002-MetaAI-Dialog.png]]
+![](./pics/002-MetaAI-Dialog.png)
 
 #### I pretended not to know what MetaAI was asking me to do next. Here's the response the LLM gave.
 
